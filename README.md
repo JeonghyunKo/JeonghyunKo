@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jeonghyun.ko94@gmail.com**
 
-- ⚡ Fun fact **I love CRAFTBEER**
+- ⚡ Fun fact **I love CRAFTBEER and GAMES**
 
 
 <h3 align="left">Languages and Tools:</h3>
