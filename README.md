@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jeonghyun</h1>
 <h3 align="center">A passionate data-analyst love graphics, with business strategy & sociology background</h3>
 
+
+
 - 🌱 I’m currently learning **Data Science School 17th / Fast Campus**
 
 - 📝 I regularly write articles on [https://data-ducky.tistory.com/](https://data-ducky.tistory.com/)
