@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeonghyun</h1>
-<h3 align="center">A passionate data-analyst love graphics, with business strategy & sociology background</h3>
+<h3 align="center">A passionate data-analysis student loves visualization, with business strategy & sociology background</h3>
 
 
 
