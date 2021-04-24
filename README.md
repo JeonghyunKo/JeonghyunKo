@@ -1,16 +1,36 @@
-<h1 align="center">Hi 👋, I'm Jeonghyun</h1>
-<h3 align="center">A passionate data-analysis student loves visualization, with business strategy & sociology background</h3>
+## Glad to see you here 👋, I'm Jeonghyun
 
+안녕하세요. 미래의 데이터 분석가 JeongHyun입니다. 
+인문학적 마인드와 비즈니스 관점에서의 경험을 함께 갖추고 있습니다.  
+#### 
+---
+#### 
+#### 이런 사람입니다
 
+- 신문방송학과 사회학을 전공하면서, 세상을 좀더 이해하기 위해 처음으로 데이터 분석에 관심을 갖게 되었습니다. 
+- **만족하지 않습니다.** 현실에 안주하지 않고, 새로운 것들을 배우는 것이 좋습니다. 재밌으니까요.
+- 시야 없는 스킬은 가능하나, 스킬 없는 시야는 가능하다고 믿지 않습니다. 그렇기에 기본기를 중시합니다.
+- 팀 플레이에서는 지원가 포지션을 자처합니다. 그리고 MMORPG에서는 주로 힐러를 합니다.
+- 보태는 말 없이도 충분한 이해가 가능하도록 직관적인 시각화를 추구합니다. 
+#### 
+#### 이런 경험을 쌓았습니다 
 
-- 🌱 I’m currently learning **Data Science School 17th / Fast Campus**
+- 모바일게임 SNS 스타트업 전략기획팀(2015-2017)
+- 크래프트맥주 관련 크라우드펀딩 2회 + 크래프트맥주 스타트업 필드 매니저(2018)
+- 전략 컨설턴트 - 주로 스타트업, 학생 창업팀(2019-2021) 
+- 현재 Data Science School 17기🌱 
+#### 
+#### 제 목표는
 
-- 📝 I regularly write articles on [https://data-ducky.tistory.com/](https://data-ducky.tistory.com/)
+- 언젠가는 당당히 제 칼이 분석력이라 말하고 싶습니다.  
+- 제가 생각하는 분석력은 데이터를 다루는 스킬과 데이터를 보고 해석하는 시야를 모두 아우릅니다. 
+- 이에 올해에는 제가 하고자 하는 대로 데이터를 다룰 수 있게 되는 것이 목표입니다.  
+#### 
+---
+#### 
+#### 마지막으로 
+- 📝 저는 주로 여기에 글을 쓰고 [https://data-ducky.tistory.com/](https://data-ducky.tistory.com/)
 
-- 📫 How to reach me **jeonghyun.ko94@gmail.com**
+- 📫 편하게 얘기하고 싶으시다면 **jeonghyun.ko94@gmail.com**
 
-- ⚡ Fun fact **I love CRAFTBEER and GAMES**
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- ⚡  저를 낚을 수 있는 마법의 단어 **CRAFT BEER** **게임**
