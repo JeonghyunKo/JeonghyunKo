@@ -17,9 +17,11 @@
 📈 Business Development
 - 모바일게임 유저를 위한 소셜미디어 스타트업 전략기획팀(2015-2017)
 - 전략 컨설턴트 - 주로 스타트업, 학생 창업팀(2019-2021) 
+
 👩🏻‍💻 Data / ML
 - Data Science School 17기🌱 
 - 2021 GOOGLE MACHINE LEARNING BOOTCAMP
+
 ✨ And More
 - 추가로, 크래프트맥주 관련 크라우드펀딩 2회 + 크래프트맥주 스타트업 필드 매니저(2018)
 #### 
